@@ -1,2 +1,1 @@
-Creando
-Viendo que onda
+Viendo que onda directamente
